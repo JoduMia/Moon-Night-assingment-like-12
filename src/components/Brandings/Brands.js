@@ -8,7 +8,6 @@ const images = [
     {id:5, pic: 'https://garirbazar.s3.amazonaws.com/uploads/brand/icon/238/buy-cars-mercedes-benz.png', brand:'Saab'},
     {id:6, pic: 'https://garirbazar.s3.amazonaws.com/uploads/brand/icon/32/buy-cars-mitsubishi.png', brand:'Proton'},
     {id:7, pic: 'https://garirbazar.s3.amazonaws.com/uploads/brand/icon/40/saab.png', brand:'Marcedes'},
-    {id:8, pic: 'https://garirbazar.s3.amazonaws.com/uploads/brand/icon/45/buy-cars-suzuki.png', brand:'Suzuki'},
 ]
 const Brands = () => {
     return (
